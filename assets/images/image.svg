@@ -4,7 +4,7 @@
 </mask>
 <g mask="url(#mask0)">
 <rect opacity="0.02" width="540" height="440" fill="#3C64B1"/>
-<g opacity="0.06">
+<g opacity="0.06"> 
 <path d="M0 0L540 440" stroke="#3C64B1"/>
 <path d="M21.0938 -17.1875L561.094 422.812" stroke="#3C64B1"/>
 <path d="M42.1875 -34.375L582.188 405.625" stroke="#3C64B1"/>

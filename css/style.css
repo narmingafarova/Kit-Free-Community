@@ -98,7 +98,7 @@ body {
   line-height: 18px;
   letter-spacing: 0.3px;
   background-color: transparent;
-  cursor: pointer;
+  cursor: pointer; 
 }
 
 .btn-link {
